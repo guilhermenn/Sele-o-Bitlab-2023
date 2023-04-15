@@ -816,7 +816,28 @@ function verificar() {
         "cracudo",
         "maconheiro",
         "aidetico",
-        "viado"
+        "viado",
+        "sexo",
+        "genitália",
+        "coito",
+        "cópula",
+        "transa",
+        "erotismo",
+        "lascíva",
+        "porno",
+        "boquete",
+        "caralho",
+        "foda",
+        "foder",
+        "fode",
+        "pau",
+        "pica",
+        "porra",
+        "cu",
+        "xoxota",
+        "xavasca",
+        "cacete",
+        "siririca"
 
 
 
